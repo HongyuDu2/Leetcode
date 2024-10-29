@@ -42,31 +42,21 @@
 #        """
 
 class Solution(object):
-	def depthSum(self, nestedList):
-		"""
-		:type nestedList: List[NestedInteger]
-		:rtype: int
-		"""
-		
-		return self.recSum(nestedList, 1)
-		
-		
-		
-	def recSum(self, nestedList, depth):
-		
-		sum = 0
-		
-		for item in nestedList:
-			
-			if item.isInteger():
-				
-				sum += (item.getInteger() * depth)
-				
-			else:
-				sum += self.recSum(item.getList(), depth+1)
-				
-				
-		return sum
+    def depthSum(self, nestedList):
+        """
+        :type nestedList: List[NestedInteger]
+        :rtype: int
+        """
+        def dfs(nested_list, depth):
+            total = 0
+            for item in nested_list:
+                if item.isInteger():
+                    total += item.getInteger() * depth
+                else:
+                    total += dfs(item.getList(), depth + 1)
+            return total
+
+        return dfs(nestedList, 1)
 
             
 
