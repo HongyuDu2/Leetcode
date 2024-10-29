@@ -41,6 +41,49 @@
 #        :rtype List[NestedInteger]
 #        """
 
+'''
+class Solution(object):
+    def depthSum(self, nestedList):
+        """
+        :type nestedList: List[NestedInteger]
+        :rtype: int
+        """
+        def is_numeric(value):
+            return isinstance(value, (int, float))
+        
+        def flatten_one_level(nested_list):
+            flat_list = []
+            for item in nested_list:
+                if isinstance(item, list):
+                    flat_list.extend(item)
+                else:
+                    flat_list.append(item) 
+            return flat_list
+
+        def looop(nestedList, L):
+            Total = 0
+            for i in range(0, len(nestedList)):
+                if is_numeric(nestedList[i]) == True:
+                    Total = Total + L * nestedList[i]
+                    nestedList[i] = '&'
+            nestedList = [item for item in nestedList if item != '&']
+            return nestedList, Total
+
+        L = 1
+        T = 0
+        Sum = 0
+        
+        while T < 1:
+            Output = looop(nestedList, L)
+            Sum = Sum + Output[1]
+            if len(Output[0]) == 0:
+                break
+            else:
+                nestedList = flatten_one_level(Output[0])
+                L = L + 1
+        
+        return Sum
+'''
 class Solution(object):
     def depthSum(self, nestedList):
         """
@@ -57,7 +100,6 @@ class Solution(object):
             return total
 
         return dfs(nestedList, 1)
-
             
 
 
