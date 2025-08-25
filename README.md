@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/HongyuDu2/Leetcode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/HongyuDu2/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Design
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
