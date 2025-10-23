@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HongyuDu2/Leetcode/tree/master/0050-powx-n) |
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/HongyuDu2/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
