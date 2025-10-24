@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
 ## Stack
 |  |
 | ------- |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+## Matrix
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
 <!---LeetCode Topics End-->
