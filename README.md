@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/HongyuDu2/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Stack
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/HongyuDu2/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
