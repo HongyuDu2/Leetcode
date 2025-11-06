@@ -1,20 +1,15 @@
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
-        needle_1 = 0
-        output = 0
-        i = 0
-        while i < len(haystack):
-            if haystack[i] == needle[needle_1]:
-                if needle_1 == 0:
-                    output = i
-                needle_1 += 1
-                if needle_1 == len(needle):
-                    return output
-            else:
-                if needle_1 > 0:
-                    i = i - needle_1
-                needle_1 = 0
-            i += 1
-
-        
+        if needle == "":
+            return 0
+        n, m = len(haystack), len(needle)
+        if m == 1:
+            return haystack.find(needle)  # 或者手写遍历返回第一个等于needle[0]的位置
+        for i in range(n - m + 1):
+            if haystack[i] == needle[0]:
+                for j in range(1, m):
+                    if haystack[i + j] != needle[j]:
+                        break
+                    if j == m - 1:
+                        return i
         return -1
