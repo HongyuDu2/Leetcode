@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/HongyuDu2/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0408-valid-word-abbreviation](https://github.com/HongyuDu2/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Hash Table
 |  |
