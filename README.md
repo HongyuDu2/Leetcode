@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/HongyuDu2/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/HongyuDu2/Leetcode/tree/master/0242-valid-anagram) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HongyuDu2/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
@@ -242,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/HongyuDu2/Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
