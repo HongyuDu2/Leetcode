@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
+| [0136-single-number](https://github.com/HongyuDu2/Leetcode/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/HongyuDu2/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/HongyuDu2/Leetcode/tree/master/0461-hamming-distance) |
