@@ -12,9 +12,9 @@ class Solution:
                 return 0
             left = depth(node.left)
             right = depth(node.right)
-
-            self.Max_dia = max(self.Max_dia, left + right)
+            
+            self.Max_dia = max(self.Max_dia, left+right)
             return 1 + max(left, right)
-
+        
         depth(root)
-        return(self.Max_dia)
+        return self.Max_dia
