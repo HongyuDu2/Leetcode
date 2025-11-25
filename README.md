@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/HongyuDu2/Leetcode/tree/master/0242-valid-anagram) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0408-valid-word-abbreviation](https://github.com/HongyuDu2/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HongyuDu2/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/HongyuDu2/Leetcode/tree/master/0258-add-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HongyuDu2/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/HongyuDu2/Leetcode/tree/master/0461-hamming-distance) |
 ## Monotonic Queue
 |  |
