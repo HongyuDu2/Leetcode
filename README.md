@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/HongyuDu2/Leetcode/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HongyuDu2/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String Matching
 |  |
