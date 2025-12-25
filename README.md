@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HongyuDu2/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/HongyuDu2/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/HongyuDu2/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/HongyuDu2/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HongyuDu2/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HongyuDu2/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HongyuDu2/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/HongyuDu2/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/HongyuDu2/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/HongyuDu2/Leetcode/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HongyuDu2/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/HongyuDu2/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/HongyuDu2/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
