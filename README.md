@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HongyuDu2/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HongyuDu2/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Recursion
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HongyuDu2/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String Matching
 |  |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/HongyuDu2/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Geometry
 |  |
 | ------- |
