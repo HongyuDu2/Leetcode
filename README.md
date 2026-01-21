@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HongyuDu2/Leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/HongyuDu2/Leetcode/tree/master/0605-can-place-flowers) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HongyuDu2/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HongyuDu2/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/HongyuDu2/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/HongyuDu2/Leetcode/tree/master/0326-power-of-three) |
+| [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/HongyuDu2/Leetcode/tree/master/0504-base-7) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -432,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
