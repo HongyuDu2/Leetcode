@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/HongyuDu2/Leetcode/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0408-valid-word-abbreviation](https://github.com/HongyuDu2/Leetcode/tree/master/0408-valid-word-abbreviation) |
+| [0504-base-7](https://github.com/HongyuDu2/Leetcode/tree/master/0504-base-7) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/HongyuDu2/Leetcode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/HongyuDu2/Leetcode/tree/master/0504-base-7) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Tree
 |  |
