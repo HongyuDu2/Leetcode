@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HongyuDu2/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/HongyuDu2/Leetcode/tree/master/0382-linked-list-random-node) |
 ## Array
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/HongyuDu2/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/HongyuDu2/Leetcode/tree/master/0326-power-of-three) |
+| [0382-linked-list-random-node](https://github.com/HongyuDu2/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/HongyuDu2/Leetcode/tree/master/0504-base-7) |
@@ -438,5 +440,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/HongyuDu2/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/HongyuDu2/Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
