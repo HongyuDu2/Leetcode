@@ -6,19 +6,17 @@
 
 class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        slow = head
         fast = head
+        slow = head
         is_first_cycle = True
-        # 检查环路。
         while fast != slow or is_first_cycle:
             if fast is None or fast.next is None:
                 return None
             fast = fast.next.next
             slow = slow.next
             is_first_cycle = False
-        # 寻找节点。
         fast = head
         while fast != slow:
             fast = fast.next
             slow = slow.next
-        return fast
+        return slow
