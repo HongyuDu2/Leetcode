@@ -460,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/HongyuDu2/Leetcode/tree/master/0382-linked-list-random-node) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/HongyuDu2/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
