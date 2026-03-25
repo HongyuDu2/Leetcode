@@ -6,11 +6,11 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        def depth(node, current):
+        def depth(node, num):
             if not node:
                 return 0
-            current = current*10 + node.val
+            num = num*10 + node.val
             if not node.left and not node.right:
-                return current
-            return depth(node.left, current) + depth(node.right, current)
+                return num
+            return depth(node.left, num) + depth(node.right, num)
         return depth(root, 0)
