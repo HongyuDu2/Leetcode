@@ -1,31 +1,13 @@
-'''
-class Solution(object):
-    def maxProfit(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
         profit = 0
-        for i in range(0, len(prices)-1):
-            distance = max(prices[i+1:])-prices[i]
-            profit = max(profit, distance)
-            
+        s1, s2 = 0, 0
+        while s2 < len(prices)-1:
+            s2 += 1
+            if prices[s1] > prices[s2]:
+                s1 = s2
+            profit = max(profit, prices[s2]-prices[s1])
         return profit
-'''
-class Solution(object):
-    def maxProfit(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
-        min_price = float('inf')  # 初始化为一个很大的数
-        max_profit = 0
-        
-        for price in prices:
-            # 更新到目前为止的最低价格
-            min_price = min(min_price, price)
-            # 计算当前价格卖出时的利润，更新最大利润
-            max_profit = max(max_profit, price - min_price)
-        
-        return max_profit
-        
+
+
+
