@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HongyuDu2/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HongyuDu2/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0408-valid-word-abbreviation](https://github.com/HongyuDu2/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0633-sum-of-square-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/HongyuDu2/Leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0316-remove-duplicate-letters](https://github.com/HongyuDu2/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HongyuDu2/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/HongyuDu2/Leetcode/tree/master/0605-can-place-flowers) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/HongyuDu2/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/HongyuDu2/Leetcode/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HongyuDu2/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
 ## Sliding Window
 |  |
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
