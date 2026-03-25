@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/HongyuDu2/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HongyuDu2/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1360-number-of-days-between-two-dates](https://github.com/HongyuDu2/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HongyuDu2/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Hash Table
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/HongyuDu2/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1360-number-of-days-between-two-dates](https://github.com/HongyuDu2/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Tree
 |  |
 | ------- |
