@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/HongyuDu2/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HongyuDu2/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [1360-number-of-days-between-two-dates](https://github.com/HongyuDu2/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HongyuDu2/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/HongyuDu2/Leetcode/tree/master/0763-partition-labels) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 ## Linked List
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1060-missing-element-in-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
+| [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HongyuDu2/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2870-longest-alternating-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/2870-longest-alternating-subarray) |
 ## Stack
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HongyuDu2/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HongyuDu2/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -345,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 ## Matrix
 |  |
 | ------- |
