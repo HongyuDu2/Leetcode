@@ -1,33 +1,25 @@
-class Solution(object):
-    def findOrder(self, numCourses, prerequisites):
-        """
-        :type numCourses: int
-        :type prerequisites: List[List[int]]
-        :rtype: List[int]
-        """
+class Solution:
+    def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
+        course_arr = [[] for _ in range(numCourses)]
+        degree = [0]*numCourses
+        res = []
+
+        for cur, pre in prerequisites:
+            course_arr[pre].append(cur)
+            degree[cur] += 1
         
-        graph = defaultdict(list)
-        in_degree = [0] * numCourses
-        
-        for dest, src in prerequisites:
-            graph[src].append(dest)
-            in_degree[dest] += 1
-            
-        queue = deque([i for i in range(numCourses) if in_degree[i] == 0])
-        order = []
-        
+        queue = deque([i for i in range(numCourses) if degree[i] == 0])
+
+        Count = 0
         while queue:
-            course = queue.popleft()
-            order.append(course)
-            
-            for neighbor in graph[course]:
-                in_degree[neighbor] -= 1
-                if in_degree[neighbor] == 0:
-                    queue.append(neighbor)
-                    
-        if len(order) == numCourses:
-            return order
-        
+            curr = queue.popleft()
+            res.append(curr)
+            Count += 1
+            for nums in course_arr[curr]:
+                degree[nums] -= 1
+                if degree[nums] == 0:
+                    queue.append(nums)
+        if Count == numCourses:
+            return res
         else:
             return []
-        
