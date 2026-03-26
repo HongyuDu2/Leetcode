@@ -15,3 +15,7 @@ class Solution:
             dfs(node.right, height+1)
         dfs(root, 1)
         return self.ans
+    
+    # if root is None:
+    #     return 0
+    # return max(self.maxDepth(root.left), self.maxDepth(root.right))+1
