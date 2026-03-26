@@ -16,6 +16,6 @@ class Solution:
             for j in range(0, ncol):
                 if grid[i][j] == '1':
                     total += 1
-                dfs(i, j)
+                    dfs(i, j)
         return total
 
