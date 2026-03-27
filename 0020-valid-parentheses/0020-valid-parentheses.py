@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        mark = {'{':'}', '(':')', '[':']'}
+        mark = {'(':')', '{':'}', '[':']'}
         for i in s:
             if i in mark.keys():
                 stack.append(i)
