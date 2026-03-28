@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/HongyuDu2/Leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HongyuDu2/Leetcode/tree/master/0055-jump-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HongyuDu2/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HongyuDu2/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HongyuDu2/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
