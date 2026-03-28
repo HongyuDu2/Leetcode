@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HongyuDu2/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/HongyuDu2/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HongyuDu2/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HongyuDu2/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HongyuDu2/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HongyuDu2/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/HongyuDu2/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/HongyuDu2/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0113-path-sum-ii) |
