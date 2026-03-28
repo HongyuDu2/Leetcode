@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/HongyuDu2/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/HongyuDu2/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/HongyuDu2/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0876-middle-of-the-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
