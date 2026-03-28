@@ -9,5 +9,6 @@ class Solution:
         while cur:
             nxt = cur.next
             cur.next = pre
-            pre, cur = cur, nxt
+            pre = cur
+            cur = nxt
         return pre
