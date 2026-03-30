@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HongyuDu2/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/HongyuDu2/Leetcode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/HongyuDu2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HongyuDu2/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/HongyuDu2/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HongyuDu2/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/HongyuDu2/Leetcode/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/HongyuDu2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0098-validate-binary-search-tree) |
