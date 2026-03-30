@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/HongyuDu2/Leetcode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/HongyuDu2/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/HongyuDu2/Leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HongyuDu2/Leetcode/tree/master/0035-search-insert-position) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/HongyuDu2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0098-validate-binary-search-tree) |
