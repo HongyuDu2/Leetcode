@@ -16,8 +16,7 @@ class Solution:
             if root_i != root_j:
                 parent[root_i] = root_j
                 count -= 1
-                return True
-            return False
+
         
         for u, v in edges:
             union(u, v)
