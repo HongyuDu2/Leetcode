@@ -7,5 +7,5 @@ class Solution:
                 path.append(nums[i])
                 backtrack(i+1, path)
                 path.pop()
-        backtrack(0, [])
+        backtrack(0,[])
         return result
