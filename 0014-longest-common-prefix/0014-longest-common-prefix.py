@@ -1,9 +1,5 @@
-class Solution(object):
-    def longestCommonPrefix(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: str
-        """
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
         overlap = strs[0]
         for i in range(len(strs)):
             if len(overlap) <= len(strs[i]) and strs[i].startswith(overlap):
@@ -27,4 +23,6 @@ class Solution(object):
                 overlap = ''.join(overlap)
                 
         return overlap
+
+
         
