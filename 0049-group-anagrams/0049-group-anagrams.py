@@ -1,15 +1,7 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        """
-        :type strs: List[str]
-        :rtype: List[List[str]]
-        """
-        
-        anagram_dict = defaultdict(list)
-        
-        for word in strs:
-            sorted_word = tuple(sorted(word))
-            anagram_dict[sorted_word].append(word)
-            
-        return list(anagram_dict.values())
-        
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        new_map = defaultdict(list)
+        for s in strs:
+            key = "".join(sorted(s))
+            new_map[key].append(s)
+        return list(new_map.values())
