@@ -6,7 +6,7 @@ class Solution:
 
         for c in s:
             if c.isdigit():
-                cur_num = cur_num * 10 + int(c)
+                cur_num = cur_num*10 + int(c)
             
             elif c == '[':
                 stack.append((cur_str, cur_num))
@@ -14,8 +14,8 @@ class Solution:
                 cur_num = 0
             
             elif c == ']':
-                prev_str, k = stack.pop()
-                cur_str = prev_str + cur_str * k
+                prev, num = stack.pop()
+                cur_str = prev + num*cur_str
             
             else:
                 cur_str += c
