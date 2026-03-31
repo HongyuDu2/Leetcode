@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HongyuDu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0763-partition-labels](https://github.com/HongyuDu2/Leetcode/tree/master/0763-partition-labels) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HongyuDu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HongyuDu2/Leetcode/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/HongyuDu2/Leetcode/tree/master/0665-non-decreasing-array) |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/HongyuDu2/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HongyuDu2/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HongyuDu2/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/HongyuDu2/Leetcode/tree/master/0853-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HongyuDu2/Leetcode/tree/master/0547-number-of-provinces) |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/HongyuDu2/Leetcode/tree/master/0547-number-of-provinces) |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/HongyuDu2/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -611,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/HongyuDu2/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/HongyuDu2/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
@@ -623,4 +630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HongyuDu2/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0210-course-schedule-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 <!---LeetCode Topics End-->
