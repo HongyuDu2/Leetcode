@@ -1,20 +1,21 @@
-class Solution(object):
-    def findKthLargest(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: int
-        """
-        #Use a min-heap of size k
-        min_heap = []
-    
-        for num in nums:
-            heapq.heappush(min_heap, num)
-            if len(min_heap) > k:
-                heapq.heappop(min_heap)
-    
-    # The root of the min-heap is the k-th largest element
-        return min_heap[0]
-        
+import heapq
+from typing import List
 
-        
+
+
+class Solution:
+    def findKthLargest(self, nums: List[int], k: int) -> int:
+        pivot_val = random.choice(nums)
+        large, medium, small = [], [], []
+        for num in nums:
+            if num > pivot_val:
+                large.append(num)
+            elif num < pivot_val:
+                small.append(num)
+            else:
+                medium.append(num)
+        if k <= len(large):
+            return self.findKthLargest(large, k)
+        if k > len(large) + len(medium):
+            return self.findKthLargest(small, k-len(large)-len(medium))
+        return pivot_val
