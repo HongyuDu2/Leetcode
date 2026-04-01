@@ -7,7 +7,6 @@ class Solution:
 
         room = 0
         end_time = 0
-
         for num in start:
             if num >= end[end_time]:
                 end_time += 1
