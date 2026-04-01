@@ -15,7 +15,8 @@ class Solution:
         for i in range(0, nrow):
             for j in range(0, ncol):
                 if grid[i][j] == '1':
-                    total += 1
+                    
                     dfs(i, j)
+                    total += 1
         return total
 
