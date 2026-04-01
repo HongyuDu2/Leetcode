@@ -1,7 +1,7 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
+        # if not grid:
+        #     return 0
         nrow, ncol = len(grid), len(grid[0])
         total = 0
         def dfs(r, c):
