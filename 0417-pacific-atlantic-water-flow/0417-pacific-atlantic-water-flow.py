@@ -1,7 +1,7 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        if not heights or not heights[0]:
-            return []
+        # if not heights or not heights[0]:
+        #     return []
         nrow, ncol = len(heights), len(heights[0])
         dirs = [(1,0), (0,1), (-1,0), (0,-1)]
         
