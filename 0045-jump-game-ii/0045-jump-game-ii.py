@@ -4,7 +4,7 @@ class Solution:
         end = 0
         jump = 0
         for i in range(len(nums)-1):
-            fast = max(fast, i+ nums[i])
+            fast = max(fast, i+nums[i])
             if i == end:
                 jump += 1
                 end = fast
