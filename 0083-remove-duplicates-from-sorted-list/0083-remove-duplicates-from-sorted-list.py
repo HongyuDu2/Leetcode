@@ -12,3 +12,4 @@ class Solution:
             else:
                 cur = cur.next
         return head
+        
