@@ -6,7 +6,7 @@ class Solution:
         total = 0
         def dfs(r, c):
             if r<0 or c<0 or r >= nrow or c >= ncol or grid[r][c]=='0':
-                return
+                return 0
             grid[r][c] = '0'
             dfs(r-1, c)
             dfs(r+1, c)
