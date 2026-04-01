@@ -1,37 +1,42 @@
 class Solution:
     def shortestBridge(self, grid: List[List[int]]) -> int:
         n = len(grid)
-        directions = [(0,1), (0,-1), (1,0), (-1,0)]
         q = deque()
-
-        def dfs(r, c):
-            grid[r][c] = 2
-            q.append((r, c))
-            for dr, dc in directions:
-                nr, nc = r+dr, c+dc
-                if 0 <= nr <n and 0 <= nc < n and grid[nr][nc] == 1:
-                    dfs(nr, nc)
+        def dfs(i, j):
+            if i < 0 or j < 0 or i >= n or j >= n or grid[i][j] != 1:
+                return
+            q.append((i,j))
+            grid[i][j] = 2
+            dfs(i+1,j)
+            dfs(i-1,j)
+            dfs(i,j+1)
+            dfs(i,j-1)
         
         found = False
         for i in range(n):
             for j in range(n):
                 if grid[i][j] == 1:
-                    dfs(i, j)
+                    dfs(i,j)
                     found = True
                     break
-            if found: break
+            if found:
+                break
         
         distance = 0
+        directions = [(1,0),(-1,0),(0,1),(0,-1)]
         while q:
             for _ in range(len(q)):
-                r, c = q.popleft()
-                for dr, dc in directions:
-                    nr, nc = r + dr, c + dc
-                    if 0 <= nr < n and 0 <= nc < n:
-                        if grid[nr][nc] == 1:
+                r, l = q.popleft()
+                for dr, dl in directions:
+                    i, j = r+dr, l+dl
+                    if 0<=i<n and 0<=j<n:
+                        if grid[i][j] == 1:
                             return distance
-                        if grid[nr][nc] == 0:
-                            grid[nr][nc] = 2
-                            q.append((nr, nc))
+                        if grid[i][j] == 0:
+                            grid[i][j] = 2
+                            q.append((i,j))
             distance += 1
         return distance
+
+
+             
