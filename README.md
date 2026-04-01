@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/HongyuDu2/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/HongyuDu2/Leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/HongyuDu2/Leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/HongyuDu2/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/HongyuDu2/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/HongyuDu2/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/HongyuDu2/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/HongyuDu2/Leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/HongyuDu2/Leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/HongyuDu2/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
