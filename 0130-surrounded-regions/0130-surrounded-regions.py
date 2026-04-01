@@ -3,8 +3,8 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        if not board or not board[0]:
-            return
+        # if not board or not board[0]:
+        #     return
         
         nrow, ncol = len(board), len(board[0])
 
