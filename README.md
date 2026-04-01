@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/HongyuDu2/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/HongyuDu2/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/HongyuDu2/Leetcode/tree/master/0055-jump-game) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HongyuDu2/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HongyuDu2/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/HongyuDu2/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/HongyuDu2/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/HongyuDu2/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HongyuDu2/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/HongyuDu2/Leetcode/tree/master/0079-word-search) |
