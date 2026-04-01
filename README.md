@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/HongyuDu2/Leetcode/tree/master/0860-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0934-shortest-bridge](https://github.com/HongyuDu2/Leetcode/tree/master/0934-shortest-bridge) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1060-missing-element-in-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/1060-missing-element-in-sorted-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/HongyuDu2/Leetcode/tree/master/0934-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/HongyuDu2/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0934-shortest-bridge](https://github.com/HongyuDu2/Leetcode/tree/master/0934-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 ## Matrix
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
+| [0934-shortest-bridge](https://github.com/HongyuDu2/Leetcode/tree/master/0934-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
 ## Prefix Sum
