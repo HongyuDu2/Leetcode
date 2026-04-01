@@ -18,8 +18,8 @@ class Solution:
             cur.next = pre
             pre = cur
             cur = nxt
-        second = pre
-        p1, p2 = head, second
+        #second = pre
+        p1, p2 = head, pre
         while p2:
             if p1.val != p2.val:
                 return False
