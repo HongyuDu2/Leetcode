@@ -1,14 +1,14 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        mark = {'(':')', '{':'}', '[':']'}
-        for i in s:
-            if i in mark.keys():
-                stack.append(i)
+        mark = {'(':')', '[':']', '{':'}'}
+        for c in s:
+            if c in mark.keys():
+                stack.append(c)
                 continue
             if len(stack) == 0:
                 return False
-            if i != mark[stack[-1]]:
+            if c != mark[stack[-1]]:
                 return False
             stack.pop()
         return len(stack) == 0
