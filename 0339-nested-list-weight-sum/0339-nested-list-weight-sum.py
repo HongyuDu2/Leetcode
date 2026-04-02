@@ -50,7 +50,7 @@ class Solution:
         while stack:
             item, depth = stack.pop()
             if item.isInteger():
-                total += item.getInteger() * depth
+                total += item.getInteger()*depth
             else:
                 for s in item.getList():
                     stack.append((s, depth+1))
