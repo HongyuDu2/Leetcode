@@ -4,7 +4,7 @@ class Solution:
         for i, pos in enumerate(nums):
             diff = target - pos
             if diff in set:
-                return [set[diff], i]
+                return[set[diff], i]
             set[pos] = i
         
 
