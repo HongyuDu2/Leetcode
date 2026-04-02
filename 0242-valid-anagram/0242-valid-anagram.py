@@ -3,17 +3,17 @@ class Solution:
         if len(s) != len(t):
             return False
         set = {}
-        for i in s:
-            if i not in set:
-                set[i] = 1
+        for c in s:
+            if c in set:
+                set[c] += 1
             else:
-                set[i] += 1
-        for j in t:
-            if j not in set:
+                set[c] = 1
+        for c in t:
+            if c not in set:
                 return False
-            elif set[j] == 0:
+            elif set[c] == 0:
                 return False
             else:
-                set[j] -= 1
+                set[c] -= 1
         return True
 
