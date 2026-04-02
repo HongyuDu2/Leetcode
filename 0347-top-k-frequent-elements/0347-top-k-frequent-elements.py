@@ -1,9 +1,9 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         d = {}
-        for i in range(len(nums)):
-            if nums[i] not in d:
-                d[nums[i]] = 1
+        for s in nums:
+            if s in d:
+                d[s] += 1
             else:
-                d[nums[i]] += 1
-        return [key for key, _ in sorted(d.items(), key=lambda x:x[1], reverse=True)[:k]]
+                d[s] = 1
+        return[keys for keys,_ in sorted(d.items(), key=lambda x:x[1], reverse=True)[:k]]
