@@ -6,13 +6,13 @@
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode(0)
-        prev = dummy
-        prev.next = head
-        while prev.next and prev.next.next:
-            a = prev.next
-            b = prev.next.next
-            prev.next = b
+        pre = dummy
+        pre.next = head
+        while pre.next and pre.next.next:
+            a = pre.next
+            b = pre.next.next
+            pre.next = b
             a.next = b.next
             b.next = a
-            prev = a
+            pre = a
         return dummy.next
