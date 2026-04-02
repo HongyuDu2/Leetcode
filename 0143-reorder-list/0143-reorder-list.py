@@ -8,26 +8,30 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        if not head or not head.next:
-            return 
+        # if not head or not head.next:
+        #     return 
         
-        slow, fast = head, head
+        slow = fast = head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         
         prev = None
-        curr = slow.next
+        cur = slow.next
         slow.next = None
-        while curr:
-            nxt = curr.next
-            curr.next = prev
-            prev = curr
-            curr = nxt
+        while cur:
+            nxt = cur.next
+            cur.next = prev
+            prev = cur
+            cur = nxt
         
-        first, second = head, prev
+        first = head
+        second = prev
         while second:
-            t1, t2= first.next, second.next
+            t1 = first.next
+            t2 = second.next
             first.next = second
             second.next = t1
-            first, second= t1, t2
+            first = t1
+            second = t2
+        return head
