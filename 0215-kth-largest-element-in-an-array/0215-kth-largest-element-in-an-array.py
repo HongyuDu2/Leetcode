@@ -20,8 +20,8 @@ class Solution:
         #     return self.findKthLargest(small, k-len(large)-len(medium))
         # return pivot_val
         heap = []
-        for num in nums:
-            heapq.heappush(heap, num)
-        for i in range(1, len(nums)-k+1):
+        for s in nums:
+            heapq.heappush(heap, s)
+        for i in range(0, len(nums)-k):
             heapq.heappop(heap)
         return heap[0]
