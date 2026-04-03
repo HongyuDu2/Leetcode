@@ -17,7 +17,7 @@ class Solution:
                 return -1
             if abs(left-right) > 1:
                 return -1
-            return max(left, right) + 1
+            return (max(left, right) + 1)
         return dfs(root) != -1
 
 
