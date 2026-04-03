@@ -1,7 +1,7 @@
 class Solution:
     def missingElement(self, nums: List[int], k: int) -> int:
         def missing_fun(i):
-            return (nums[i] - nums[0] - i)
+            return nums[i] - nums[0] - i
         n = len(nums)
         if missing_fun(n-1) < k:
             return nums[n-1] + k - missing_fun(n-1)
