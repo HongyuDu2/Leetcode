@@ -9,7 +9,7 @@ class Solution:
         self.ans = 0
         def dfs(node, height):
             if not node:
-                return
+                return 
             self.ans = max(self.ans, height)
             dfs(node.left, height+1)
             dfs(node.right, height+1)
