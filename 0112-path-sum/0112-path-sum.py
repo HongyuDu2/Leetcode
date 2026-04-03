@@ -9,5 +9,5 @@ class Solution:
         if not root:
             return False
         if not root.left and not root.right:
-            return targetSum == root.val
+            return root.val == targetSum
         return self.hasPathSum(root.left, targetSum - root.val) or self.hasPathSum(root.right, targetSum - root.val)
