@@ -17,7 +17,7 @@ class Solution:
         # )
         if not root:
             return 0
-        self.ans = float('inf')
+        self.ans = float("inf")
         def dfs(node, height):
             if not node:
                 return
