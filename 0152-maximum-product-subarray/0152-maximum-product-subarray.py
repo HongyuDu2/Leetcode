@@ -1,7 +1,7 @@
 class Solution:
-    def maxProduct(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
+    def maxProduct(self, nums) -> int:
+        # if not nums:
+        #     return 0
         res = max_so_far = min_so_far = nums[0]
         for i in range(1, len(nums)):
             curr = nums[i]
