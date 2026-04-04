@@ -1,5 +1,5 @@
 class Solution:
-    def rob(self, nums: List[int]) -> int:
+    def rob(self, nums) -> int:
         dp1 = 0
         dp2 = 0
         for i in range(0, len(nums)):
