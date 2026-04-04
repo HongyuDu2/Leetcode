@@ -1,7 +1,7 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
+        # if not nums:
+        #     return 0
         dp1 = 0
         dp2 = 0
         for x in nums:
