@@ -19,7 +19,8 @@ class Solution:
                 degree[nums] -= 1
                 if degree[nums] == 0:
                     queue.append(nums)
-        if Count == numCourses:
-            return res
-        else:
-            return []
+        return res if Count==numCourses else []
+        # if Count == numCourses:
+        #     return res
+        # else:
+        #     return []
