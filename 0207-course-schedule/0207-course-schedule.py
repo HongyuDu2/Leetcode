@@ -1,11 +1,11 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         course_arr = [[] for _ in range(numCourses)]
-        degree = [0]*numCourses
+        degree = [0]* numCourses
 
-        for cur, pre in prerequisites:
-            course_arr[pre].append(cur)
-            degree[cur] += 1
+        for curr, pre in prerequisites:
+            course_arr[pre].append(curr)
+            degree[curr] += 1
         
         queue = deque([i for i in range(numCourses) if degree[i] == 0])
 
