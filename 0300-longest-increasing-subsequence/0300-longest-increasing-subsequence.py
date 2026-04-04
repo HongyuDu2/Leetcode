@@ -1,7 +1,7 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
+        # if not nums:
+        #     return 0
         n = len(nums)
         dp = [1]*n
         for i in range(n):
