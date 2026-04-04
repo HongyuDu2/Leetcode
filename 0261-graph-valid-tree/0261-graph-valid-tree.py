@@ -11,7 +11,7 @@ class Solution:
             parent[i] = find(parent[i])
             return parent[i]
         
-        def union(i, j):
+        def union(i,j):
             root_i = find(i)
             root_j = find(j)
             if root_i != root_j:
@@ -19,7 +19,7 @@ class Solution:
                 return True
             return False
         
-        for u, v in edges:
+        for u,v in edges:
             if not union(u, v):
                 return False
         return True
