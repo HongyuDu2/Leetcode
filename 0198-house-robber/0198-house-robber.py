@@ -1,11 +1,9 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        # if not nums:
-        #     return 0
         dp1 = 0
         dp2 = 0
-        for x in nums:
-            curr = max(dp1, dp2 + x)
+        for i in range(0, len(nums)):
+            cur = max(dp1, dp2 + nums[i])
             dp2 = dp1
-            dp1 = curr
-        return curr
+            dp1 = cur
+        return cur
