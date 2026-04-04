@@ -14,10 +14,9 @@ class Solution:
             root_i = find(i)
             root_j = find(j)
             if root_i != root_j:
-                parent[root_i] = root_j
+                parent[root_i] = parent[root_j]
                 count -= 1
-
         
-        for u, v in edges:
-            union(u, v)
+        for u,v in edges:
+            union(u,v)
         return count
