@@ -6,8 +6,9 @@ class Solution:
                 res.append(S)
                 return
             if right < left:
-                backtrack(S + ')', left, right+1)
+                backtrack(S + ")", left, right+1)
             if left < n:
-                backtrack(S + '(', left+1, right)
+                backtrack(S + "(", left+1, right)
         backtrack("", 0, 0)
         return res
+
