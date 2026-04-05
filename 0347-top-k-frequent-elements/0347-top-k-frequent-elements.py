@@ -6,4 +6,8 @@ class Solution:
                 d[s] += 1
             else:
                 d[s] = 1
-        return[keys for keys,_ in sorted(d.items(), key=lambda x:x[1], reverse=True)[:k]]
+        d1 = sorted(d.items(), key = lambda x : x[1], reverse=True)
+        res = []
+        for i in range(k):
+            res.append(d1[i][0])
+        return res
