@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def dfs(node, low = float('-inf'), high = float('inf')):
+        def dfs(node, low = float("-inf"), high = float("inf")):
             if not node:
                 return True
             if node.val <= low or node.val >= high:
