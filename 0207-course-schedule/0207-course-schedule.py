@@ -1,9 +1,9 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        course_arr = [[] for _ in range(numCourses)]
+        course_arr = [[]*numCourses for _ in range(numCourses)]
         degree = [0]*numCourses
 
-        for pre, cur in prerequisites:
+        for cur, pre in prerequisites:
             course_arr[pre].append(cur)
             degree[cur] += 1
         
@@ -13,8 +13,8 @@ class Solution:
         while queue:
             cur = queue.popleft()
             Count += 1
-            for nums in course_arr[cur]:
-                degree[nums] -= 1
-                if degree[nums] == 0:
-                    queue.append(nums)
+            for num in course_arr[cur]:
+                degree[num] -= 1
+                if degree[num] == 0:
+                    queue.append(num)
         return Count == numCourses
