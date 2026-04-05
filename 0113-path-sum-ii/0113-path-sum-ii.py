@@ -16,8 +16,8 @@ class Solution:
             if not node.left and not node.right:
                 if node.val == current:
                     res.append(list(path))
-            dfs(node.left, current - node.val, path)
-            dfs(node.right, current - node.val, path)
+            dfs(node.left, current-node.val, path)
+            dfs(node.right, current-node.val, path)
             path.pop()
         dfs(root, targetSum, [])
         return res
