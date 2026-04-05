@@ -15,7 +15,7 @@ class Solution:
             path.append(node.val)
             if not node.left and not node.right:
                 if node.val == current:
-                    res.append(list(path))
+                    res.append(path[:])
             dfs(node.left, current-node.val, path)
             dfs(node.right, current-node.val, path)
             path.pop()
