@@ -6,29 +6,31 @@
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         dummy = ListNode(0, head)
-        groupPrev = dummy
+        groupPre = dummy
 
-        def getKt(curr, k):
+        def getk(curr, k):
             while curr and k > 0:
                 curr = curr.next
                 k -= 1
             return curr
         
         while True:
-            kth = getKt(groupPrev, k)
+            kth = getk(groupPre, k)
             if not kth:
                 break
             groupNext = kth.next
 
-            prev, curr = kth.next, groupPrev.next
+            cur, pre = groupPre.next, kth.next
             for _ in range(k):
-                nxt = curr.next
-                curr.next = prev
-                prev = curr
-                curr = nxt
+                nxt = cur.next
+                cur.next = pre
+                pre = cur
+                cur = nxt
             
-            tmp = groupPrev.next
-            groupPrev.next = kth
-            groupPrev = tmp
-
+            tmp = groupPre.next
+            groupPre.next = kth
+            groupPre = tmp
+        
         return dummy.next
+
+
