@@ -2,20 +2,20 @@ class Solution(object):
     def calculate(self, s):
         stack = []
         num = 0
-        last_op = "+"
+        op = "+"
         s += "+"
-        for char in s:
-            if char.isdigit():
-                num = num*10 + int(char)
-            elif char != " ":
-                if last_op == '+':
+        for t in s:
+            if t.isdigit():
+                num = num * 10 + int(t)
+            elif t != " ":
+                if op == "+":
                     stack.append(num)
-                elif last_op == '-':
+                elif op == "-":
                     stack.append(-num)
-                elif last_op == '*':
+                elif op == "*":
                     stack.append(stack.pop()*num)
                 else:
                     stack.append(int(stack.pop()/num))
-                last_op = char
+                op = t
                 num = 0
         return sum(stack)
