@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HongyuDu2/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/HongyuDu2/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HongyuDu2/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HongyuDu2/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HongyuDu2/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/HongyuDu2/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/HongyuDu2/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/HongyuDu2/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HongyuDu2/Leetcode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/HongyuDu2/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -694,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HongyuDu2/Leetcode/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HongyuDu2/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
