@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HongyuDu2/Leetcode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/HongyuDu2/Leetcode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/HongyuDu2/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/HongyuDu2/Leetcode/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/HongyuDu2/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0384-shuffle-an-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/HongyuDu2/Leetcode/tree/master/0261-graph-valid-tree) |
+| [0279-perfect-squares](https://github.com/HongyuDu2/Leetcode/tree/master/0279-perfect-squares) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/HongyuDu2/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0339-nested-list-weight-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HongyuDu2/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HongyuDu2/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/HongyuDu2/Leetcode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/HongyuDu2/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/HongyuDu2/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/HongyuDu2/Leetcode/tree/master/0413-arithmetic-slices) |
