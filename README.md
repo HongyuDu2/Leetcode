@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/HongyuDu2/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HongyuDu2/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/HongyuDu2/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [1360-number-of-days-between-two-dates](https://github.com/HongyuDu2/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HongyuDu2/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/HongyuDu2/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1105-filling-bookcase-shelves](https://github.com/HongyuDu2/Leetcode/tree/master/1105-filling-bookcase-shelves) |
+| [1143-longest-common-subsequence](https://github.com/HongyuDu2/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
