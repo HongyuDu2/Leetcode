@@ -6,7 +6,7 @@ class Solution:
         ans = 2
         for i in range(n):
             slope_count = defaultdict(int)
-            for j in range(i + 1, n):
+            for j in range(i+1, n):
                 dy = points[j][1] - points[i][1]
                 dx = points[j][0] - points[i][0]
 
