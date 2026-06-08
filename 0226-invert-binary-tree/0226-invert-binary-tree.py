@@ -7,7 +7,7 @@
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if not root:
-            return None
+            return
 
         # 交换当前节点左右子树
         root.left, root.right = root.right, root.left
