@@ -5,7 +5,7 @@ class Solution:
         n, m = len(grid), len(grid[0])
         def dfs(i,j):
             if i < 0 or i >= n or j < 0 or j >= m or grid[i][j] == "0":
-                return "0"
+                return
             grid[i][j] = "0"
             dfs(i+1, j)
             dfs(i-1, j)
