@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        res: List[int] = []
+        res = []
         def depth(node, length):
             if not node:
                 return
