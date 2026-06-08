@@ -8,8 +8,8 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        res = []
         queue = deque([root])
+        res = []
 
         while queue:
             level_size = len(queue)
