@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/HongyuDu2/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HongyuDu2/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/HongyuDu2/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0528-random-pick-with-weight](https://github.com/HongyuDu2/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0542-01-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HongyuDu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
