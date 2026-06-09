@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/HongyuDu2/Leetcode/tree/master/0934-shortest-bridge) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/HongyuDu2/Leetcode/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/HongyuDu2/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1060-missing-element-in-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [1105-filling-bookcase-shelves](https://github.com/HongyuDu2/Leetcode/tree/master/1105-filling-bookcase-shelves) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1004-max-consecutive-ones-iii](https://github.com/HongyuDu2/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1060-missing-element-in-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/1060-missing-element-in-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/HongyuDu2/Leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Recursion
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0528-random-pick-with-weight](https://github.com/HongyuDu2/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/HongyuDu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/HongyuDu2/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
 ## Sliding Window
 |  |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/HongyuDu2/Leetcode/tree/master/0413-arithmetic-slices) |
+| [1004-max-consecutive-ones-iii](https://github.com/HongyuDu2/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HongyuDu2/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Enumeration
 |  |
