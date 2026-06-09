@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [1539-kth-missing-positive-number](https://github.com/HongyuDu2/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/HongyuDu2/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HongyuDu2/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2870-longest-alternating-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/2870-longest-alternating-subarray) |
 ## Stack
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/HongyuDu2/Leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/HongyuDu2/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/HongyuDu2/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
