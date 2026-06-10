@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/HongyuDu2/Leetcode/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0408-valid-word-abbreviation](https://github.com/HongyuDu2/Leetcode/tree/master/0408-valid-word-abbreviation) |
+| [0424-longest-repeating-character-replacement](https://github.com/HongyuDu2/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/HongyuDu2/Leetcode/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HongyuDu2/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HongyuDu2/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/HongyuDu2/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/HongyuDu2/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/HongyuDu2/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HongyuDu2/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/HongyuDu2/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/HongyuDu2/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/HongyuDu2/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HongyuDu2/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Enumeration
