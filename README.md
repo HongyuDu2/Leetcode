@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/HongyuDu2/Leetcode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/HongyuDu2/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0252-meeting-rooms](https://github.com/HongyuDu2/Leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HongyuDu2/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HongyuDu2/Leetcode/tree/master/0322-coin-change) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/HongyuDu2/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HongyuDu2/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HongyuDu2/Leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/HongyuDu2/Leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/HongyuDu2/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HongyuDu2/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HongyuDu2/Leetcode/tree/master/0435-non-overlapping-intervals) |
