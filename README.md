@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/HongyuDu2/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/HongyuDu2/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/HongyuDu2/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HongyuDu2/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/HongyuDu2/Leetcode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0845-longest-mountain-in-array](https://github.com/HongyuDu2/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/HongyuDu2/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/HongyuDu2/Leetcode/tree/master/0860-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HongyuDu2/Leetcode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/HongyuDu2/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2870-longest-alternating-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/2870-longest-alternating-subarray) |
 ## Simulation
 |  |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/HongyuDu2/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/HongyuDu2/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0845-longest-mountain-in-array](https://github.com/HongyuDu2/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1105-filling-bookcase-shelves](https://github.com/HongyuDu2/Leetcode/tree/master/1105-filling-bookcase-shelves) |
 | [1143-longest-common-subsequence](https://github.com/HongyuDu2/Leetcode/tree/master/1143-longest-common-subsequence) |
