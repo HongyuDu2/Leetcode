@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0694-number-of-distinct-islands](https://github.com/HongyuDu2/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0763-partition-labels](https://github.com/HongyuDu2/Leetcode/tree/master/0763-partition-labels) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HongyuDu2/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/HongyuDu2/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HongyuDu2/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/HongyuDu2/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/HongyuDu2/Leetcode/tree/master/0860-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/HongyuDu2/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-shortest-bridge](https://github.com/HongyuDu2/Leetcode/tree/master/0934-shortest-bridge) |
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/HongyuDu2/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/HongyuDu2/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/HongyuDu2/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HongyuDu2/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/HongyuDu2/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Enumeration
