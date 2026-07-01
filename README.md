@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
 | [1360-number-of-days-between-two-dates](https://github.com/HongyuDu2/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/HongyuDu2/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/HongyuDu2/Leetcode/tree/master/0965-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HongyuDu2/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/HongyuDu2/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2784-check-if-array-is-good](https://github.com/HongyuDu2/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3092-most-frequent-ids](https://github.com/HongyuDu2/Leetcode/tree/master/3092-most-frequent-ids) |
 ## Linked List
