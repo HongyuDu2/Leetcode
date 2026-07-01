@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/HongyuDu2/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/HongyuDu2/Leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/HongyuDu2/Leetcode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/HongyuDu2/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/0898-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/HongyuDu2/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/HongyuDu2/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/HongyuDu2/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/HongyuDu2/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/HongyuDu2/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/HongyuDu2/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1060-missing-element-in-sorted-array](https://github.com/HongyuDu2/Leetcode/tree/master/1060-missing-element-in-sorted-array) |
