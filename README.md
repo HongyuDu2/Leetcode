@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/HongyuDu2/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/HongyuDu2/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/HongyuDu2/Leetcode/tree/master/0670-maximum-swap) |
+| [0779-k-th-symbol-in-grammar](https://github.com/HongyuDu2/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1360-number-of-days-between-two-dates](https://github.com/HongyuDu2/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 ## Tree
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/HongyuDu2/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/HongyuDu2/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/HongyuDu2/Leetcode/tree/master/0394-decode-string) |
+| [0779-k-th-symbol-in-grammar](https://github.com/HongyuDu2/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/HongyuDu2/Leetcode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HongyuDu2/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/HongyuDu2/Leetcode/tree/master/0461-hamming-distance) |
+| [0779-k-th-symbol-in-grammar](https://github.com/HongyuDu2/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Monotonic Queue
 |  |
 | ------- |
