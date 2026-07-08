@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/HongyuDu2/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1242-matrix-block-sum](https://github.com/HongyuDu2/Leetcode/tree/master/1242-matrix-block-sum) |
 | [1257-smallest-common-region](https://github.com/HongyuDu2/Leetcode/tree/master/1257-smallest-common-region) |
+| [1288-remove-covered-intervals](https://github.com/HongyuDu2/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1539-kth-missing-positive-number](https://github.com/HongyuDu2/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/HongyuDu2/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HongyuDu2/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/HongyuDu2/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/HongyuDu2/Leetcode/tree/master/0853-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/HongyuDu2/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1288-remove-covered-intervals](https://github.com/HongyuDu2/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [2784-check-if-array-is-good](https://github.com/HongyuDu2/Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Monotonic Stack
 |  |
